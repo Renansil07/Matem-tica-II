@@ -1,0 +1,43 @@
+<html>
+    <head> 
+        <meta charset="UTF-8"> 
+        <title> Aulas de Hoje</title> 
+    </head>
+    <body> 
+        <h1> 
+            Bicicletas Antigas 
+        </h1>
+        <h2>
+            Bicicleta Vermelha
+        </h2> 
+        <p>
+            <b>Essa bicicleta está sem freio </b>
+          </p>
+    </body>
+    <style>
+    </style>
+</html>
+    
+<html>
+    <head> 
+        <meta charset="UTF-8"> 
+        <link rel="stylesheet" href="style.css">
+        <title> Atividade de Matemática II</title> 
+    </head>
+    <body> 
+        <h1 class="renan">RENAN</h1>
+        <h2 class=silverio> Silvério</h2> 
+        <p>
+            Estudar é investir no </br> <b> FUTURO</b>
+          </p>
+    </body>
+    <style>
+    </style>
+
+</html>
+    .renan {
+    color: rgb(214, 68, 68);
+}
+.silverio {
+    color: rgb(211, 179, 1);
+}
