@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Atividade Matemática II</title>
+</head>
+<body>
+<h1> Texto Justificado: </h1>
+  <p class ="justify">
+    Este é um parágrafo que tenta ser justificado usando o atributo "align" diretamente na tag P.
+    É importante notar que esta é uma prática antiga e não é a forma recomendada de estilizar
+    textos em páginas web modernas. O ideal é usar CSS para controle de apresentação.
+    Apesar disso, em um ambiente onde apenas HTML puro é permitido, essa seria a única opção.
+  </p>
+<h1> Texto Centralizado: </h1>
+  <div align="justify">
+    Este é um bloco de texto dentro de uma DIV que também usa o atributo "align".
+    Lembre-se que o alinhamento justificado tenta distribuir o texto igualmente pela largura
+    do contêiner, deixando as margens esquerda e direita alinhadas, com exceção da última linha.
+  </div>
+<style>
+    class align justify
+</style>
+
+</body>
+</html>
